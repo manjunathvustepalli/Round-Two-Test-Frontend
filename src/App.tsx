@@ -205,10 +205,10 @@ function App() {
       {csvArray.length > 0 ? (
         <>
           <div className="mx-10	max-w-100 p-50 overflow-auto max-h-1/10 scroll-auto	shadow-md	rounded-md	">
-            <p className="flex flex-col  items-center text-lg font-medium ">
-              <a className="underline decoration-pink-500">
+            <p className="flex flex-col  items-center text-lg font-medium normal-case">
+             
                 Preview of the file
-              </a>
+              
             </p>
             <table className="shadow-lg bg-white table-auto">
               <thead>
