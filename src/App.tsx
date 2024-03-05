@@ -206,9 +206,7 @@ function App() {
         <>
           <div className="mx-10	max-w-100 p-50 overflow-auto max-h-1/10 scroll-auto	shadow-md	rounded-md	">
             <p className="flex flex-col  items-center text-lg font-medium normal-case">
-             
-                Preview of the file
-              
+              Preview of the file
             </p>
             <table className="shadow-lg bg-white table-auto">
               <thead>
